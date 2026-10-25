@@ -1,5 +1,4 @@
 # Machine-learning-Assignment-2
-# Machine Learning Assignment 2: Olivetti Faces
 
 ## 1. Overview
 
